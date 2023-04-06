@@ -5,7 +5,7 @@ from app.template import Template
 templates: list[Template] = [
     Template(100, 'First doc', 'Content'),
     Template(101, 'Second doc', 'Long, long, long, long, long, long, long, long, long, long text'),
-    Template(102, 'Third doc', 'Moscow, London, Tokyo, Paris')
+    Template(102, 'Third doc', 'Moscow, Londonn, Tokyo, Paris')
     
 ]
 
