@@ -3,9 +3,9 @@ from app.document import Document, CreateDocumentModel
 
 
 documents: list[Document] = [
-    Document(0, 'First doc', 'Content'),
-    Document(1, 'Second doc', 'Long, long, long, long, long, long, long, long, long, long text'),
-    Document(2, 'Third doc', 'Moscow, London, Tokyo, Paris')
+   # Document(0, 'First doc', 'Content'),
+   # Document(1, 'Second doc', 'Long, long, long, long, long, long, long, long, long, long text'),
+   # Document(2, 'Third doc', 'Moscow, London, Tokyo, Paris')
     
 ]
 
