@@ -26,7 +26,7 @@ jobs:
       - name: Install requirements
         run: pip install pytest requests
       - name: Run tests
-        run: pythest
+        run: pytest
 
 
       # Push tag
