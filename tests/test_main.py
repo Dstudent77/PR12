@@ -30,4 +30,4 @@ def test_healthcheck():
 #     def test_get_not_empty_docs():
 #         response = requests.get(f'{api_url}/v1/docs')
 #         assert response.status_code == 200
-#         assert len(response.json()) == 1
+#         assert len(response.json()) == 1 #
